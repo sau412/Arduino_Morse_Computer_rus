@@ -34,6 +34,7 @@ const char symbols_special_list[] PROGMEM = ".,:;'\"-/?!@";
 #define DEFAULT_LED_ENABLED 1
 #define DEFAULT_BUZZER_ENABLED 1
 #define DEFAULT_BULLS_AND_COWS_LEN 3
+#define DEFAULT_FOXES_LEN 5
 #define DEFAULT_FOXES_COUNT 5
 #define DEFAULT_N_BACK_LEN 2
 #define DEFAULT_N_BACK_TYPE SYMBOLS_ALPHA
